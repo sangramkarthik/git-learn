@@ -1,4 +1,0 @@
-# Contributors of this Repo for Git
- # NAME      -    # Date
--Sangram Singh-29/05/2023
--Ayush Kumar Maurya-24/07/2023

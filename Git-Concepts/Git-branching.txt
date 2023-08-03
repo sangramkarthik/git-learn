@@ -1,4 +1,0 @@
-#Concept-of-Git-Branches
- 
- Git-Branching feature is Also called Killer-feature
-In Branching, we create a seperate branch from the main branch and continue to work with the code tweaking it , without affecting the main code used by the users to provide stability to users
