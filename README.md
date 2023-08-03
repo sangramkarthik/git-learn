@@ -1,1 +1,1 @@
-# LearnGit Tutorial
+# Learning Git through this Repo.
